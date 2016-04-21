@@ -1,6 +1,8 @@
+#necessary information required when writing a ruby gem.
+
 Gem::Specification.new do |s|
   s.name = 'first_gem_sheena'
-  s.version = '0.0.4'
+  s.version = '0.0.5'
   s.date = '2016-04-21'
   s.summary = 'Simple interactive gem'
   s.description = 'My first gem to get the hang of what I am doing'
